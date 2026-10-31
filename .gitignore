@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+node_modules/
+frontend/dist/
+dataset/raw/
+dataset/processed/
+backend/data/
+.env
+*.edf
+!sample_data/*.edf

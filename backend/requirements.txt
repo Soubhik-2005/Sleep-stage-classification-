@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pymongo
+numpy
+mne>=1.6
+scipy
+tensorflow>=2.16
+-r ../ml/requirements.txt

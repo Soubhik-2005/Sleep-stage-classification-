@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+mne>=1.6
+edfio
+matplotlib
+seaborn
+scikit-learn
+tensorflow>=2.16
+jupyter
